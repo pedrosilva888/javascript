@@ -15,4 +15,4 @@
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white " />
 </div><br/>
 
-A educação é o caminho mais belo no qual o homem tem a oportunidade de percorrer em sua vida e através dele ser o que quiser ser.
+me sigam 
