@@ -15,6 +15,3 @@
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white " />
 </div><br/>
 
-me sigam 
-passem pix pra mim 
-chave pix = 88997204310
